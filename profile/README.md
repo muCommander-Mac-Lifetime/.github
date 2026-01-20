@@ -67,7 +67,7 @@ Over time, <a href="#">muCommander</a> becomes a dependable part of the Mac envi
 ## Screenshots
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/293408/m/mucommander-screenshot.png?v=1612425853" width="824" alt="muCommander screenshot"/>
+  <img src="https://trolsoft.ru/content/articles/mucommander/mc.png" width="824" alt="muCommander screenshot"/>
 </p>
 
 ---
